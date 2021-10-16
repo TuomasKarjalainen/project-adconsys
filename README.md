@@ -1,4 +1,4 @@
-## Data and machinelearning project for Adconsys Oy
+## Data and machinelearning project for the Finnish company
 
 - Projektin päätavoitteena oli luoda syväoppiva koneoppimismalli (neuroverkko), jolla voidaan ennustaa ilmanvaihtokoneen raitisilman lämmityspatterille saapuvan veden lämpötilaa.
 
