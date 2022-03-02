@@ -13,4 +13,4 @@
 -  Selecting ML method and its implementation
 
 ## Note !
-The data and documentation have been removed from this repository for privacy reasons.
+The data and documentation have been **removed** from this repository for privacy reasons.
