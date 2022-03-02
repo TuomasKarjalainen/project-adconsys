@@ -1,13 +1,19 @@
 ## Data and machinelearning project for the Finnish company
 
-- Projektin päätavoitteena oli luoda syväoppiva koneoppimismalli (neuroverkko), jolla voidaan ennustaa ilmanvaihtokoneen raitisilman lämmityspatterille saapuvan veden lämpötilaa.
+### Content of the project
+- The main goal of the project was to implement ML model which can be used to predict the temperature of the water of ventilation machine.
+- The customer of the project was Adconsys Oy, which develops building automation systemns and ventilation machines.
+- In this project, we used neural networks (PyTorch) for solving the problem.
 
-- Projektin tilaajana toimi kiinteistöautomaatiojärjestelmiä ja IV-koneita kehittävä Adconys Oy.
-
-- Projektin tilaaja oli toimittanut useita eri tiedostoja, jotka sisälsivät lämpötila- ja anturidataa IV-koneen, ulkolämpötilan sekä lämmitysverkoston eri osista. Projektin aikana pyrittiin selvittämään, mitkä kaikki tekijät ovat olennaisia oikean lämpötilan ennustamiseksi, sekä luomaan syväoppiva koneoppimismalli (neuroverkko) saadun datan pohjalta. Projektiin kuuluivat datan siivoaminen, -analysoiminen ja muokkaaminen, sekä koneoppimismallien valitseminen ja luominen.
+The aim of the project was to find out which factors are essential for predicting the right temperature, and to create an in-depth machine learning model (neural network) based on the data obtained.
+**The project also included:**
+-  Data cleaning
+-  Data analysis
+-  Data mining & wrangling
+-  Selecting ML method and its implementation
+Projektiin kuuluivat datan siivoaminen, -analysoiminen ja muokkaaminen, sekä koneoppimismallien valitseminen ja luominen.
 
 - Projektista on piilotettu kyseiset datat ja osa dokumentaatioista yksityisyyssuojan vuoksi.
 
-### In English
-
-In this project the main goal is to create deeplearning ML model (neural network) that which we can predict the water temperature of ventilation unit. 
+### Note !
+The data and documentation have been removed from this repository for privacy reasons.
