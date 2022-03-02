@@ -2,7 +2,7 @@
 
 ### Content of the project
 - The main goal of the project was to implement ML model which can be used to predict the temperature of the water of ventilation machine.
-- The customer of the project was Adconsys Oy, which develops building automation systems and ventilation machines.
+- The customer of the project was AdConSys Oy, which develops building automation systems and ventilation machines.
 - In this project, we used neural networks (PyTorch) for solving the problem.
 
 **The aim of the project** was to find out which factors are essential for predicting the right temperature, and to create an in-depth machine learning model (neural network) based on the data obtained.
