@@ -12,5 +12,5 @@
 -  Data mining & wrangling
 -  Selecting ML method and its implementation
 
-## Note !
+# Note 
 The data and most of the documentation have been **removed** from this repository for privacy reasons.
