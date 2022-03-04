@@ -1,7 +1,7 @@
 ## Data and machinelearning project for the Finnish company
 
 ### Content of the project
-- The main goal of the project was to implement ML model which can be used to predict the temperature of the water of ventilation machine.
+- The main goal of the project was to implement ML model which can be used to predict the temperature of the water of ventilation machine. The purpose of forecasting is to make optimizations for heating system and save its costs.
 - The customer of the project was [AdConSys Oy](https://adconsys.fi/), which develops building automation systems and ventilation machines.
 - In this project, we used neural networks (PyTorch) for solving the problem.
 
